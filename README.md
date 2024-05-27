@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**wal8y/wal8y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast and Linux aficionado, navigating the digital realm with a blend of code, creativity, and a good dose of humor. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ I break things before the bad guys do.
+- 🐧 fluent bash and my favorite shell is the one I'm in.
+- 🎓 Software Dev.
+
+
+## info
+- My favorite command is `rm -rf /` (just kidding, please don't run that).
+- Not using git usually
