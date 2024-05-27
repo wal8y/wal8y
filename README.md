@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm a cybersecurity enthusiast and Linux aficionado, navigating the digital realm with a blend of code, creativity, and a good dose of humor. 
+Welcome to my GitHub profile! I'm a cybersecurity and Linux kinda guy. 
 
 ## About Me
 
